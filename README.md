@@ -51,29 +51,6 @@ This dashboard helps businesses make data-driven decisions by identifying top-pe
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Mobile-Sales-Dashboard/
-│── Mobile_Sales_Dashboard.pbix      # Power BI Dashboard
-│── data.xlsx                        # Dataset
-│── data.csv                         # Dataset (Optional)
-│── projectbi.PNG                    # Dashboard Screenshot
-│── README.md                        # Project Documentation
-```
-
----
-
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```markdown
-![Dashboard Preview](projectbi.PNG)
-```
-
----
-
 ## 📊 Insights Generated
 - Overall sales performance and revenue tracking.
 - Brand-wise comparison of mobile sales.
@@ -105,6 +82,3 @@ Mobile-Sales-Dashboard/
 3. Load or refresh the dataset if required.
 4. Explore the interactive dashboard using filters, maps, and drill-down features.
 
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile⭐ If you found this project helpfu
